@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+
+  /* Custom clinical color palette */
+  --color-clinical-50: #f0fdf9;
+  --color-clinical-100: #ccfbf0;
+  --color-clinical-500: #0ea5e9;
+  --color-clinical-600: #0284c7;
+  --color-clinical-700: #0369a1;
+  --color-clinical-950: #032d42;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: #f8fafc;
+  color: #0f172a;
+}
+
+@media print {
+  /* Hide everything during printing */
+  html, body, #paxmind-app-root, #paxmind-app-root * {
+    visibility: hidden !important;
+  }
+  /* Show only the printable document area and its descendants */
+  #printable-area-modal, #printable-area-modal * {
+    visibility: visible !important;
+  }
+  /* Position the printable area at the absolute top-left for clean layout */
+  #printable-area-modal {
+    position: absolute !important;
+    left: 0 !important;
+    top: 0 !important;
+    width: 100% !important;
+    height: auto !important;
+    max-height: none !important;
+    overflow: visible !important;
+    background: white !important;
+    color: black !important;
+    z-index: 99999 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    border: none !important;
+    box-shadow: none !important;
+  }
+}
