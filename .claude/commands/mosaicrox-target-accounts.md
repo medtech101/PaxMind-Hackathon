@@ -1,9 +1,10 @@
-# MosaicRx Target Accounts — Bay Area & Kansas City Metro
+# MosaicRx Target Accounts — Bay Area, Kansas City Metro & Wichita, KS
 
 You are the go-to-market strategist for Mosaic Health Solutions (MosaicRx).
 This skill contains the prioritized target account list and strategic alliance targets
-for the Bay Area (CA) and Kansas City Metro (MO/KS) markets. Use alongside
-`/mosaicrox-icp-strategy` and `/mosaicrox-partnership-strategy` for full context.
+for the Bay Area (CA), Kansas City Metro (MO/KS), and Wichita, KS markets. Use
+alongside `/mosaicrox-icp-strategy` and `/mosaicrox-partnership-strategy` for full
+context.
 
 **Two-track beachhead:** PACE programs = strategic beachhead (24/25 ICP fit, long-term
 position). Physician-owned multi-site FFS (family medicine + geriatrics) = speed
@@ -26,6 +27,20 @@ primary care integration sits a day trip away. KC metro also has strong capitate
 senior primary care presence (Centerwell/Humana, Spira Care/Blue KC) that maps to
 the second-ring ICP. University of Kansas Health System anchors a potential clinical
 research partnership for peer-reviewed outcome data.
+
+**Why Wichita, KS (third market, KansasCOM anchor):** Wichita is the largest city in
+Kansas and the hub for senior care across the south-central Kansas region. The primary
+strategic entry point here is KansasCOM (Kansas College of Osteopathic Medicine) at
+Kansas Health Science University (KHSU) — a DO medical school opened in 2021 with
+clinical training partnerships across Wichita-area practices. KansasCOM functions as a
+force-multiplier alliance rather than a direct revenue account: their clinical training
+sites are our account targets (warm intro path), their faculty are potential clinical
+advisors, and their students become prescribers who already know MosaicRx's output
+when they graduate. DO training culture — emphasizing whole-person care and conservative
+pharmacology — aligns naturally with deprescribing. Wichita also has independent
+physician-owned primary care and geriatric practices that fit the speed beachhead ICP
+profile, and potential PACE infrastructure serving the region's dual-eligible senior
+population (verify current programs via NPA directory).
 
 ---
 
@@ -401,6 +416,152 @@ cascade problem, not the technology.
 
 ---
 
+## WICHITA, KS TARGET ACCOUNTS
+
+Wichita accounts are additive to the top 10 above. Sequencing note: pursue Wichita
+in parallel with Kansas City rather than after it — the KansasCOM relationship can
+open Wichita accounts faster than a cold KC reference can. The Phoenix → Wichita
+geographic hop is also shorter than Phoenix → Bay Area for in-person pilot visits.
+
+---
+
+### Wichita W1 — Wichita-Area PACE Program(s)
+**Location:** Wichita, KS (and surrounding south-central Kansas region)
+**ICP Tier:** Strategic Beachhead | Score: 24/25
+**Segment:** PACE program
+
+**Why this account:** Wichita is the largest city in Kansas and the regional hub for
+dual-eligible senior care serving the south-central Kansas catchment area. PACE programs
+operating in this region carry the same full-capitation economic logic as Bay Area PACE —
+every prevented cascade admission is a direct budget save. The south-central Kansas
+senior population has high rates of chronic disease and polypharmacy driven by
+agricultural and industrial occupational histories, creating a dense clinical signal for
+MosaicRx.
+
+**Verification required:** Confirm currently operating PACE programs in the Wichita
+metro area via the CMS PACE provider directory (cms.gov) or the National PACE
+Association member directory (npaonline.org). The NPA directory lists every active
+program with contact information. Do not cold-outreach to a program before verifying
+active enrollment status and leadership contacts.
+
+**Primary contacts to target (once identified):**
+- Medical Director / Chief Medical Officer
+- Director of Pharmacy / Lead Clinical Pharmacist — primary day-to-day champion
+- Director of Clinical Services or VP of Operations
+- CEO or Executive Director (at smaller non-profit PACE programs in regional markets,
+  the CEO is often one conversation from the pilot decision)
+
+**Warm path in:** KansasCOM faculty and clinical training coordinators may have existing
+relationships with Wichita-area PACE programs that use DO physicians or DO students for
+clinical rotations. This is the highest-leverage intro path available in this market.
+
+**First move:** Identify active Wichita-area PACE programs via NPA directory. Before
+making any outreach, ask KansasCOM's Director of Clinical Education whether any PACE
+programs are current or past KansasCOM clinical rotation sites — if yes, that faculty
+connection converts a cold call into a warm introduction.
+
+---
+
+### Wichita W2 — KansasCOM Clinical Training Site Practices
+**Location:** Wichita metro area (dispersed across KansasCOM's affiliate practice network)
+**ICP Tier:** Speed Beachhead | Score: 20/25
+**Segment:** Physician-owned multi-site FFS (family medicine + geriatrics)
+
+**Why this account:** KansasCOM's DO students complete clinical rotations at a network
+of affiliate physician practices in the Wichita area. These practices, by definition:
+(a) are actively engaged with medical education and therefore clinically curious and
+open to new tools; (b) have attending DOs or MDs with independent prescribing authority
+who supervise students; and (c) are likely physician-owned or physician-led (academic
+medical education affiliates tend to be independent or group-practice DOs rather than
+hospital-employed physicians). Any practice that hosts KansasCOM students is already
+a warm account by the time MosaicRx is introduced through the KansasCOM relationship.
+
+**How to identify targets:**
+- Request KansasCOM's list of clinical training affiliate practices from their Office
+  of Clinical Education — this is typically shareable for partnership discussions
+- Filter for practices with: geriatric or internal medicine focus, 2+ providers,
+  150+ Medicare patients
+- Verify physician-ownership via Kansas Board of Healing Arts (ksbha.org) practice
+  registration and MIPS participation via qpp.cms.gov
+- Cross-reference with Doximity for physician specialty and practice affiliation
+
+**Primary contacts to target:**
+- The supervising attending physician / practice owner (DO or MD) — single decision maker
+- If multi-site: the practice administrator or office manager is the scheduling gatekeeper
+- KansasCOM's clerkship director for that practice site serves as a warm intro bridge
+
+**First move:** Once KansasCOM partnership conversation is underway (see Alliance W1
+below), ask the Director of Clinical Education: "Are there 2–3 attending physicians
+in your training network who manage a lot of geriatric polypharmacy patients and have
+expressed interest in clinical decision support tools?" This turns a partner conversation
+into a referral list.
+
+---
+
+### Wichita W3 — Independent Physician-Owned Geriatric / Internal Medicine Practices
+**Location:** Wichita metro (Wichita, Derby, Andover, Maize)
+**ICP Tier:** Speed Beachhead | Score: 20/25
+**Segment:** Physician-owned multi-site FFS
+
+**Profile:** Physician-owned (DO or MD equity stake, not Ascension/Via Christi-employed),
+1–3 sites, 150+ Medicare patients with a geriatric or complex senior panel, MIPS
+participant. Wichita has a meaningful independent physician sector outside the Via
+Christi/Ascension system. Avoid Wichita Clinic–affiliated practices pending ownership
+verification (Wichita Clinic was acquired by Ascension in 2021; confirm current
+physician employment status before targeting).
+
+**How to identify targets:**
+- Doximity: search geriatricians and general internists with private practice affiliation
+  in Wichita, Derby, Andover — filter for independent practice listed as employer
+- Kansas Board of Healing Arts (ksbha.org): physician license lookup with practice address
+- CMS NPI registry (npiregistry.cms.hhs.gov): locate solo or small group NPI records
+  with Wichita addresses under taxonomy codes for Geriatric Medicine or Internal Medicine
+- QPP participant lookup (qpp.cms.gov): confirm MIPS participation
+- Exclude any practice whose NPI Organization Name contains "Via Christi," "Ascension,"
+  "Wesley," "HCA," or "KU" — these are likely hospital-employed
+
+**Ownership disqualifier check:** Before outreach, ask on the first call: "Are the
+physicians here partners or owners in the practice, or employees of a health system?"
+If hospital-employed → qualify out per non-owner FFS disqualifier.
+
+**First move:** Doximity direct message to a Wichita geriatrician or internist with
+private practice affiliation. 2-sentence hook: "We work with primary care physicians
+managing older adults on multiple medications. We've built an AI tool that catches
+prescribing cascades before they cause falls or delirium — can we show you a 15-minute
+demo on a deidentified patient analog?" Do not lead with technology.
+
+---
+
+### Wichita W4 — Via Christi Senior Care / Ascension Wichita (Relationship-Building Only)
+**Location:** Wichita, KS
+**ICP Tier:** Long-Horizon / Develop Later | Score: 13/25
+**Segment:** Health system senior care (hospital-employed physicians)
+
+**Why include now:** Via Christi (Ascension) is the dominant health system in Wichita
+with the most extensive senior care infrastructure in the market — hospice, home health,
+skilled nursing, and outpatient geriatric programs. Excluding them entirely creates a
+blind spot in the Wichita market. However, health systems score 13/25 on the ICP
+(V3 speed = 1/5, V2 economic alignment = 2/5 for employed physicians). Their
+procurement cycle is 9–18 months. Physicians are Ascension-employed, removing the
+ownership-based economic alignment.
+
+**What to do now:** Begin a relationship-building conversation with Via Christi's
+VP of Innovation or Director of Clinical Informatics — not a sales call. Frame as:
+"We're piloting a medication safety tool for senior care in the Kansas market and
+would value a 20-minute conversation with someone on your clinical innovation team
+to understand your priorities." This plants the seed for a Year 2 enterprise
+conversation after PACE and speed beachhead pilots have generated reference data.
+
+**Primary contacts to target (relationship only, not active sales):**
+- VP of Clinical Innovation or Quality (Ascension Wichita)
+- Medical Director of Geriatrics or Senior Services
+- Director of Clinical Pharmacy
+
+**Do not pursue an active pilot agreement with Via Christi before having a PACE
+reference case. Their legal and IT committee process will outlast your pre-seed runway.**
+
+---
+
 ## STRATEGIC ALLIANCES — BY MARKET
 
 Alliances are not revenue accounts. They are organizations that can shorten the path
@@ -525,6 +686,118 @@ See `/mosaicrox-partnership-strategy` for the full alliance scoring framework.
 
 ---
 
+### Wichita Strategic Alliances
+
+**Alliance W1 — KansasCOM / Kansas Health Science University (KHSU) — PRIMARY WICHITA ANCHOR**
+- **Location:** Wichita, KS (KHSU campus)
+- **Why this is the entry point for the entire Wichita market:** KansasCOM (Kansas
+  College of Osteopathic Medicine), opened 2021 under Kansas Health Science University,
+  is the strategic hub that unlocks the Wichita market more efficiently than any
+  direct account cold-outreach. Their clinical training network covers the Wichita-area
+  physician practices that are MosaicRx's speed beachhead targets. A relationship with
+  KansasCOM simultaneously provides:
+
+  1. **Warm account introductions:** KansasCOM's Director of Clinical Education knows
+     every attending physician who hosts DO students in the Wichita area. A single
+     meeting with that director produces a referral list of physician-owned practice
+     targets — converting cold outreach into warm introductions across the market.
+
+  2. **Faculty clinical advisors:** KansasCOM faculty who teach pharmacology, family
+     medicine, and osteopathic principles of geriatric care are natural MosaicRx
+     clinical advisors. A formal advisory role costs nothing at pre-seed and adds
+     academic credibility to the product narrative.
+
+  3. **Curriculum partnership — long-term champion pipeline:** Propose incorporating
+     MosaicRx case studies into KansasCOM's pharmacology or geriatric medicine
+     curriculum. DO students who learn to interpret anticholinergic burden alerts
+     in their third or fourth year become prescribers who already know MosaicRx
+     when they graduate and enter practice. First class graduated 2025; each cohort
+     going forward is a future champion pipeline.
+
+  4. **Research collaboration:** KansasCOM faculty can supervise a clinical research
+     project using deidentified MosaicRx pilot data from Wichita training sites —
+     generating a peer-reviewed publication that validates the platform in a Midwest
+     DO primary care context. This is distinct from the UCSF publication (Bay Area
+     academic geriatrics) and the KUMC publication (KC internal medicine) — three
+     different academic voices across three markets compound the evidence base.
+
+  5. **DO community network:** KansasCOM graduates practice across rural Kansas,
+     Oklahoma, and the southern plains. A relationship with KansasCOM creates a
+     long-term distribution channel into rural senior care markets that would otherwise
+     be inaccessible at pre-seed.
+
+- **Osteopathic alignment note:** DO training philosophy emphasizes the whole-person
+  model and conservative pharmacological intervention — deprescribing is a natural
+  extension of osteopathic principles. MosaicRx's output (reduce the cascade, remove
+  the offending agent) resonates culturally with DO training in a way that requires
+  more clinical framing with MD-trained prescribers. Use this alignment explicitly
+  in the KansasCOM pitch.
+
+- **Entry path:** Contact KHSU's Office of the Dean or the Director of Clinical
+  Education at KansasCOM directly. The ask is a 30-minute conversation framed as:
+  "We're building a clinical AI tool for geriatric polypharmacy detection and are
+  interested in whether a curriculum partnership or faculty research collaboration
+  would be a fit for KansasCOM's clinical education program." This is not a vendor
+  pitch — it is an academic partnership inquiry.
+
+- **Primary contacts:**
+  - Dean of KansasCOM (academic partnership authority)
+  - Director of Clinical Education / Director of Clinical Training (clinical site network)
+  - Chair or faculty lead for Family Medicine or Osteopathic Principles of Medicine
+    (curriculum partnership)
+  - Any KansasCOM faculty member with a published research interest in geriatrics,
+    pharmacology, or polypharmacy (research collaboration path)
+
+- **Research path:** khsu.edu and kansascom.edu faculty directory. Search PubMed for
+  KansasCOM or KHSU-affiliated publications on geriatrics, polypharmacy, or
+  anticholinergic burden to identify the right faculty collaborator.
+
+**Alliance W2 — KU School of Medicine — Wichita (KUSM-W)**
+- **Why:** The Wichita campus of KU School of Medicine runs family medicine and
+  internal medicine residency programs at Wesley Medical Center and other Wichita
+  facilities. Residents who rotate through practices where MosaicRx is deployed
+  gain familiarity with the tool before they enter independent practice. KUSM-W
+  also has a geriatric medicine education component and connections to the Wichita
+  area physician community that are complementary (not duplicative) to KansasCOM's
+  DO network.
+- **Entry:** KUSM-W Department of Family Medicine or Internal Medicine residency
+  program director. Propose a grand rounds presentation on anticholinergic burden
+  in geriatric polypharmacy — clinical education events, not vendor demos.
+- **Note:** KUSM-W and KansasCOM are distinct institutions with some competitive
+  tension. Do not position MosaicRx as exclusively associated with KansasCOM in
+  conversations with KUSM-W faculty.
+
+**Alliance W3 — Kansas Health Foundation**
+- **Why:** The Kansas Health Foundation (KHF) is one of the largest health-focused
+  philanthropic organizations in the state, based in Wichita. KHF funds programs
+  addressing health equity, rural health, and senior care across Kansas. A KHF
+  relationship serves two functions: (1) pilot funding — KHF may fund a
+  population health pilot in underserved Wichita-area senior care settings that
+  de-risks MosaicRx's cash position; (2) network introductions — KHF has relationships
+  with every major health system, community health organization, and senior care
+  provider in Kansas and can make warm introductions to Wichita-area PACE programs
+  and clinical champions.
+- **Entry:** Kansas Health Foundation website (kansashealth.org) — their program
+  officers cover specific health domains including aging and senior health. Request
+  an exploratory meeting framed as: "We're piloting a medication safety tool for
+  older adults in Kansas and exploring whether there's a community health alignment
+  with KHF's senior care priorities."
+
+**Alliance W4 — Kansas Pharmacists Association (KPhA) — Wichita Chapter**
+- **Why:** KPhA represents pharmacists statewide. Wichita-area clinical pharmacists
+  working in senior care, SNF consultant pharmacy, and ambulatory care settings
+  are the day-to-day MosaicRx champions in this market. A KPhA CE presentation
+  in Wichita creates champion-level awareness before any account sales cycle begins.
+  KPhA's Wichita chapter is the faster path than the state association for
+  Wichita-specific reach.
+- **Entry:** kansaspharmacists.org — contact the Wichita district representative
+  or KPhA CE coordinator. Propose a 1-hour ACPE-accredited continuing education
+  session: "Anticholinergic Burden and Prescribing Cascades in Geriatric Care:
+  A Clinical Decision Support Framework." CE credit is a strong incentive for
+  pharmacist attendance.
+
+---
+
 ## CONTACT RESEARCH TOOLS
 
 Use these to identify and verify specific individuals at each account:
@@ -539,6 +812,11 @@ Use these to identify and verify specific individuals at each account:
 | **CalPACE member list** | Bay Area PACE program contacts (calpace.org) |
 | **Cerner Code / Oracle Health partner portal** | Oracle Health technical and partnership contact initiation |
 | **BioNexus KC member directory** | Kansas City health innovation contacts and warm intros |
+| **Kansas Board of Healing Arts (ksbha.org)** | Verify physician license, practice address, and ownership status for Wichita physician-owned FFS targets |
+| **CMS NPI Registry (npiregistry.cms.hhs.gov)** | Locate solo/small group practices in Wichita by taxonomy code (Geriatric Medicine: 207QG0300X; Internal Medicine: 207R00000X) |
+| **KansasCOM / KHSU faculty directory (kansascom.edu)** | Identify KansasCOM faculty for clinical advisor and curriculum partnership conversations |
+| **PubMed — KHSU/KansasCOM affiliation filter** | Find KansasCOM-affiliated publications on polypharmacy or geriatrics to target the right research faculty |
+| **Kansas Health Foundation grantee list (kansashealth.org)** | Identify KHF-funded senior care organizations in Wichita as warm introduction targets |
 
 ---
 
@@ -552,27 +830,51 @@ Given pre-seed stage and the August 2026 Phoenix pilot start, sequence as follow
 - [ ] Identify and message WelbeHealth VP of Innovation on LinkedIn
 - [ ] Run Doximity searches for Bay Area physician-owned geriatric practices (2–3 targets)
 - [ ] Run Doximity searches for Kansas City physician-owned geriatric practices (2–3 targets)
+- [ ] **[Wichita]** Email KansasCOM Dean or Director of Clinical Education — academic
+  partnership inquiry, 30-minute exploratory call request
+- [ ] **[Wichita]** Pull NPA/CMS PACE directory for Wichita-area active programs
 
 **Weeks 3–4:**
 - [ ] Request intro to On Lok pharmacy director through NPA or UCSF geriatrics connection
 - [ ] Contact CalPACE about member education speaker slot
 - [ ] Email UCSF Health Hub with Letter of Interest
 - [ ] Email KU Geriatrics faculty member with publication-based introduction
+- [ ] **[Wichita]** KansasCOM first call — ask for clinical training affiliate practice
+  list and faculty geriatrics/pharmacology lead
+- [ ] **[Wichita]** Search KansasCOM faculty directory + PubMed for polypharmacy
+  research publications — identify clinical advisor candidate
 
 **Month 2 (parallel with Phoenix pilot launch):**
 - [ ] CEI introduction through CalPACE or NPA connection
 - [ ] Centerwell KC Regional Medical Director — Doximity or LinkedIn outreach
 - [ ] BioNexus KC membership and first event attendance
 - [ ] CSHP speaker proposal submission (Bay Area section)
+- [ ] **[Wichita]** Run NPI registry + Doximity search for independent geriatric/
+  internal medicine practices in Wichita metro — filter by physician-owned, MIPS
+- [ ] **[Wichita]** KansasCOM follow-up — request warm introduction to 2–3 supervising
+  attending physicians at clinical training sites with geriatric panels
+- [ ] **[Wichita]** Contact Kansas Health Foundation program officer for senior health —
+  exploratory conversation about pilot funding alignment
+- [ ] **[Wichita]** Outreach to identified Wichita PACE program(s) via pharmacist or
+  medical director contact — use KansasCOM connection as warm path if available
 
 **Month 3 (Phoenix pilot data in hand):**
 - [ ] Hill Physicians Medical Group — VP Quality introduction (need PACE reference now)
 - [ ] Spira Care Medical Director — need PACE or Centerwell reference
 - [ ] Tabula Rasa/Plifpt partnership call (parallel with PACE pilot signing)
 - [ ] Missouri/Kansas pharmacy association speaker proposals
+- [ ] **[Wichita]** KPhA Wichita chapter — CE session speaker proposal on
+  anticholinergic burden (ACPE-accredited if possible)
+- [ ] **[Wichita]** KUSM-W grand rounds presentation request — Family Medicine or
+  Internal Medicine department
+- [ ] **[Wichita]** Via Christi/Ascension Wichita — relationship-building call with
+  VP of Clinical Innovation (not a sales call; plant the seed for Year 2)
+- [ ] **[Wichita]** KansasCOM curriculum partnership proposal — formal written proposal
+  for case study integration into pharmacology or geriatric medicine curriculum
 
 ---
 
 *This skill is maintained in `.claude/commands/mosaicrox-target-accounts.md`.
-Invoke with `/mosaicrox-target-accounts`. Use alongside `/mosaicrox-icp-strategy`
-and `/mosaicrox-partnership-strategy` for full go-to-market context.*
+Invoke with `/mosaicrox-target-accounts`. Covers Bay Area (CA), Kansas City Metro
+(MO/KS), and Wichita, KS markets. Use alongside `/mosaicrox-icp-strategy` and
+`/mosaicrox-partnership-strategy` for full go-to-market context.*
