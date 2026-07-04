@@ -1,6 +1,6 @@
 {
-  "name": "PaxMind",
-  "description": "AI clinical-decision support triage and patient routing assistant.",
+  "name": "MosaicRx",
+  "description": "Investor demo: reverse-causal, phenotype-conditioned clinical decision support for geriatric polypharmacy. Synthetic data, simulated reasoning, front-end only.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": []
 }
