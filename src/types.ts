@@ -1,41 +1,107 @@
-export interface PatientContext {
-  age: string;
-  biologicalSex: 'male' | 'female' | 'other' | '';
-  isPregnant: boolean | 'unknown';
-  conditions: string[];
-  medications: string[];
-  allergies: string[];
-}
+export type PointOfCareMode = 'previsit' | 'eprescribe' | 'chart-open';
 
-export interface ChatMessage {
+export type Confidence = 'high' | 'moderate' | 'low';
+
+export interface Medication {
   id: string;
-  sender: 'user' | 'assistant';
+  name: string;
+  dose: string;
+  startDate: string; // ISO date
+  className: string;
+  acb: 0 | 1 | 2 | 3; // illustrative anticholinergic cognitive burden scale
+  source: 'medication-list' | 'patient-reported-otc';
+}
+
+export interface LabValue {
+  name: string;
+  value: string;
+  unit: string;
+  flag?: 'high' | 'low' | 'normal';
+}
+
+export interface Comorbidities {
+  ckdStage?: string;
+  egfr?: number;
+  dialysis: boolean;
+  bmi?: number;
+  heartFailure: boolean;
+  diabetes: boolean;
+}
+
+export interface PresentingComplaint {
   text: string;
-  timestamp: string;
-  triageDetails?: TriageResult;
+  onsetDate: string;
+  onsetDescription: string;
 }
 
-export interface StandardizedCode {
-  concept: string;
-  vocabulary: 'SNOMED CT' | 'ICD-10-CM' | 'RxNorm' | 'LOINC' | 'UMLS';
-  code: string;
-  cui: string; // UMLS Concept Unique Identifier
-  confidence: 'confirmed' | 'candidate';
+export interface RankedCause {
+  drug: string;
+  confidence: Confidence;
+  rationale: string;
+  startDate: string;
+  temporalLink: string;
+  source: 'medication-list' | 'patient-reported-otc';
 }
 
-export interface TriageResult {
-  tier: 0 | 1 | 2 | 3; // TIER 0, 1, 2, 3
+export interface RuledOutCandidate {
+  candidate: string;
   reason: string;
-  explanations: string[];
-  precautions: string[];
-  handoffPacket?: string; // Factual markdown handoff for physician
-  mappedCodes?: StandardizedCode[];
 }
 
-export interface TerminologyItem {
-  term: string;
-  vocabulary: string;
-  code: string;
-  cui: string;
-  description: string;
+export interface BurdenScore {
+  conventional: number;
+  adjusted: number;
+  driverExplanation: string;
+}
+
+export interface GlassBox {
+  evidence: string[];
+  temporalReasoning: string;
+  literature: string;
+  uncertainty: Confidence;
+  uncertaintyNote: string;
+  ruledOut: RuledOutCandidate[];
+}
+
+export type ActionKind = 'taper' | 'order' | 'workup' | 'document' | 'dismiss';
+
+export interface SuggestedAction {
+  id: string;
+  label: string;
+  kind: ActionKind;
+  noteTemplate: string;
+}
+
+export interface MosaicSignal {
+  status: 'cascade-detected' | 'no-cascade';
+  headline: string;
+  clinicalQuestion: string;
+  rankedCauses: RankedCause[];
+  burden: BurdenScore;
+  glassBox: GlassBox;
+  suggestedActions: SuggestedAction[];
+}
+
+export interface Patient {
+  id: string;
+  name: string;
+  age: number;
+  sex: string;
+  riskLevel: 'elevated' | 'moderate' | 'quiet';
+  diagnoses: string[];
+  comorbidities: Comorbidities;
+  medications: Medication[];
+  labs: LabValue[];
+  complaint: PresentingComplaint;
+  signal: MosaicSignal;
+}
+
+export interface AuditEntry {
+  id: string;
+  timestamp: string;
+  patientName: string;
+  mode: PointOfCareMode;
+  signalSurfaced: boolean;
+  clinicianEngaged: boolean;
+  action: string;
 }
